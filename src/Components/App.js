@@ -1,9 +1,13 @@
 import React from 'react';
+import Header from './Header';
+// import Sidebar from './Sidebar';
+import Content from './Content';
 
 const App = () => {
   return (
-    <div>
-      <h1>Hey! This is a TEST!</h1>
+    <div className='container'>
+      <Header />
+      <Content />
     </div>
   );
 };
