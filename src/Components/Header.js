@@ -21,13 +21,13 @@ const Header = () => {
       </form>
       <nav className='user-nav'>
         <div className='user-nav__icon-box'>
-          <svg className='user-nav__icon>'>
+          <svg className='user-nav__icon'>
             <use xlinkHref={sprite + '#icon-bookmark'}></use>
           </svg>
           <span className='user-nav__notification'>7</span>
         </div>
         <div className='user-nav__icon-box'>
-          <svg className='user-nav__icon>'>
+          <svg className='user-nav__icon'>
             <use xlinkHref={sprite + '#icon-chat'}></use>
           </svg>
           <span className='user-nav__notification'>13</span>
