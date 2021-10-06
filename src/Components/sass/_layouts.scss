@@ -25,6 +25,8 @@
 
   @media only screen and (max-width: $bp-smallest) {
     flex-wrap: wrap; //wrap in new line if not enough space
+    align-content: space-around;
+    height: 11rem;
   }
 }
 
