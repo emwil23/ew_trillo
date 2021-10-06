@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from '../img/logo.png';
 import sprite from '../img/sprite.svg';
-import user from '../img/user.jpg';
+import user from '../img/EWpro.jpg';
 
 const Header = () => {
   return (
@@ -34,7 +34,7 @@ const Header = () => {
         </div>
         <div className='user-nav__user'>
           <img src={user} className='user-nav__user-photo' alt='user photo' />
-          <span className='user-nav__user-name'>Jonas</span>
+          <span className='user-nav__user-name'>Emmanuel Wilson</span>
         </div>
       </nav>
     </div>
