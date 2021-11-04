@@ -3,4 +3,4 @@ An test App made for booking facilities.
 
 ## Overview
 
-This is just an design made made entirely usinf Flexbox.
+This is just an design made made entirely using Flexbox.
